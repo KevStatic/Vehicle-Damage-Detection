@@ -1,0 +1,23 @@
+# Deep Learning Framework
+# pip install -r requirements.txt
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Metrics and Evaluation
+scikit-learn>=1.3.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# COCO API (optional, for advanced COCO metrics)
+# pycocotools>=2.0.6
