@@ -25,3 +25,26 @@ tqdm>=4.65.0
 
 # COCO API (optional, for advanced COCO metrics)
 # pycocotools>=2.0.6
+
+# Torch & Vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Explainability / Coco (Optional)
+pycocotools
+
+# Visualization
+matplotlib>=3.7.0
+
+# Metrics & Evaluation
+scikit-learn>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
